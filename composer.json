@@ -4,6 +4,10 @@
   "repositories": [
     {
       "type": "vcs",
+      "url": "https://github.com/alexey-shapilov/php-BigChainDB"
+    },
+    {
+      "type": "vcs",
       "url": "https://github.com/KatsuoRyuu/php-Base58"
     },
     {
